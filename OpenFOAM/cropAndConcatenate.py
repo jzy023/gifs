@@ -3,10 +3,10 @@ from moviepy import VideoFileClip, clips_array
 
 def crop_vid(input_path):
 
-    x1 = 800
-    y1 = 300
-    x2 = 1400
-    y2 = 1500
+    x1 = 850
+    y1 = 150
+    x2 = 1360
+    y2 = 1050
 
     # Load the video
     video = VideoFileClip(input_path)
