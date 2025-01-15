@@ -30,7 +30,7 @@ def concatenation_vids(input_path_list, output_path):
 
 if __name__ == "__main__":
     # Path to the input video
-    video_folder = "multiphase_solverCompare"
+    video_folder = "multiphase_solverComparison"
     input_video_path_list = [
                             #  "./" + video_folder + "/CE_low.mp4"
                             # ,"./" + video_folder + "/CE_high.mp4"
